@@ -24,7 +24,7 @@
         flex-direction: column;
       }
       .light-mode {
-        background-color: #e0f7fa;
+        background-color: #00CED1;
         color: #000;
       }
       .dark-mode {
