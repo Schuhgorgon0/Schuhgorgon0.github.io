@@ -25,7 +25,7 @@
       }
       .light-mode {
         background-color: #00CED1;
-        color: #000;
+        color: #00CED1;
       }
       .dark-mode {
         background-color: #004d40;
