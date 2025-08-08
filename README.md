@@ -562,7 +562,7 @@
       
 
       <div class="images">
-        <button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
+        
         <a
           href="https://www.instagram.com/schuhgorgon_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
           ><img
@@ -605,6 +605,7 @@
   </div>
   <div class="puntero"></div>
 </div>
+<button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
       <div class="banner">
         <p>Created from Schuhgorgon © 2024</p>
         <p>
