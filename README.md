@@ -504,6 +504,7 @@
             alt="Box"
             class="box-image"
           />
+          <button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
         </div>
       </div>
       <div id="score"></div>
@@ -558,7 +559,7 @@
 
         moveBox();
       </script>
-      <button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
+      
 
       <div class="images">
         <a
