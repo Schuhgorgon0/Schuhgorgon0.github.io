@@ -605,7 +605,7 @@
   </div>
   <div class="puntero"></div>
 </div>
-<button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
+
       <div class="banner">
         <p>Created from Schuhgorgon © 2024</p>
         <p>
@@ -648,6 +648,6 @@
   document.addEventListener("touchstart", startMusic);
   
 </script>
-
+<button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
   </body>
 </html>
