@@ -500,11 +500,11 @@
       <div id="game-container">
         <div class="moving-box">
           <img
-            <!--src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/%E2%80%94Pngtree%E2%80%94snake%20illustration%20in%20a%20cute_5355524.png?v=1740578539408"-->
+            src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/%E2%80%94Pngtree%E2%80%94snake%20illustration%20in%20a%20cute_5355524.png?v=1740578539408"
             alt="Box"
             class="box-image"
           />
-          <button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
+          
         </div>
       </div>
       <div id="score"></div>
@@ -562,6 +562,7 @@
       
 
       <div class="images">
+        <button class="button-57" role="button"><span class="text">click me</span><span>easteregg...</span></button>
         <a
           href="https://www.instagram.com/schuhgorgon_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
           ><img
