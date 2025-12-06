@@ -535,7 +535,7 @@
         /></a>
         <a href="https://github.com/Schuhgorgon0/Schuhgorgon0.github.io/commit/c423b1e18126b3229a455d4c7442e531750b1833#diff-7075ff0b8b330b37214c250cb428057946028da82a9e257b18fc9cf22e20be84"
           ><img
-            src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/github-logo-logo.png?v=1750262515581"
+            src="https://github.com/Schuhgorgon0/Schuhgorgon0.github.io/commit/ddf8804b688c75cfe7d0d689f5d8078f30d89501"
             alt="Bild 5"
         /></a>
       </div>
