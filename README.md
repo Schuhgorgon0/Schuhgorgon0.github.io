@@ -355,12 +355,28 @@
           transform: scale(1);
         }
       }
-     
+      ####
+     .bg iframe {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  pointer-events: none;
+}
+####
       
     </style>
   </head>
   <body class="dark-mode">
-  
+    ########
+  <div class="bg">
+  <iframe src="https://my.spline.design/redbellyblacksnake-zZ7txqbb9w7H7yfKhK0h2DCy/" frameborder="0"></iframe>
+</div>
+############
+
+
     <div class="banner">
       <h1>Welcome to my website!</h1>
     </div>
@@ -528,7 +544,7 @@
             alt="Bild 4"
         /></a>
       </div>
-      <iframe src='https://my.spline.design/redbellyblacksnake-zZ7txqbb9w7H7yfKhK0h2DCy/' frameborder='0' width='100%' height='100%'></iframe>
+      
     </div>
     <footer>
       <!-- Elfsight AI Chatbot | Untitled AI Chatbot -->
