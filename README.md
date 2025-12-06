@@ -533,7 +533,7 @@
             src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/github-logo-logo.png?v=1750262515581"
             alt="Bild 4"
         /></a>
-        <a href="https://github.com/Schuhgorgon0"
+        <a href="Sprachassistent mit ki final.pdf"
           ><img
             src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/github-logo-logo.png?v=1750262515581"
             alt="Bild 5"
