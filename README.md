@@ -360,10 +360,7 @@
     </style>
   </head>
   <body class="dark-mode">
-#####################################################
-    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.12.6/build/spline-viewer.js"></script>
-    <spline-viewer url="https://prod.spline.design/59MLMS3y848BwJNW/scene.splinecode"></spline-viewer>
-#####################################################
+
     <div class="banner">
       <h1>Welcome to my website!</h1>
     </div>
@@ -625,7 +622,10 @@
     <span class="text">Button 57</span>
     <span>Alternate text</span>
   </button>
-
+####################################################
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.12.6/build/spline-viewer.js"></script>
+    <spline-viewer url="https://prod.spline.design/59MLMS3y848BwJNW/scene.splinecode"></spline-viewer>
+####################################################
 </body>
 </html>
 
