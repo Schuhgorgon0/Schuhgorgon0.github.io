@@ -518,10 +518,23 @@
             alt="Bild 3"
         /></a>
         <a href="https://github.com/Schuhgorgon0"
-          ><img
-            src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/github-logo-logo.png?v=1750262515581"
-            alt="Bild 4"
-        /></a>
+          >
+          <model-viewer src="github.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1">
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
+
+          <!--<img
+            src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/github-logo-logo.png?v=1750262515581" 
+            alt="Bild 4" 
+        />--></a>
       </div>
     </div>
     <footer>
