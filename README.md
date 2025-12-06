@@ -360,11 +360,12 @@
     </style>
   </head>
   <body class="dark-mode">
-    <iframe src='https://my.spline.design/redbellyblacksnake-zZ7txqbb9w7H7yfKhK0h2DCy/' frameborder='0' width='100%' height='100%'></iframe>
+  
     <div class="banner">
       <h1>Welcome to my website!</h1>
     </div>
     <div class="container">
+      <iframe src='https://my.spline.design/redbellyblacksnake-zZ7txqbb9w7H7yfKhK0h2DCy/' frameborder='0' width='100%' height='100%'></iframe>
       <!--<button class="toggle-button" onclick="toggleMode()">Darkmode</button>-->
 
       <label class="switch">
