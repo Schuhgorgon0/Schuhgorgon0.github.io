@@ -514,7 +514,7 @@
         <a
           href="https://www.instagram.com/schuhgorgon_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
           ><img
-            src="https://github.com/Schuhgorgon0/Schuhgorgon0.github.io/blob/main/359760649_1466915353712435_1627279150775766693_n.jpg"
+            src=""C:\Users\feren\Downloads\359760649_1466915353712435_1627279150775766693_n.jpg""
             alt="Bild 1"
         /></a>
         <a
