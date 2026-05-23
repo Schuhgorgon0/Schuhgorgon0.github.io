@@ -514,7 +514,7 @@
         <a
           href="https://www.instagram.com/schuhgorgon_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
           ><img
-            src="https://cdn.glitch.global/291b30f7-8191-4be8-97e2-3305c9ed2d53/WhatsApp%20Bild%202024-11-20%20um%2014.20.46_af23b3c0.png?v=1732126556843"
+            src="359760649_1466915353712435_1627279150775766693_n.jpg"
             alt="Bild 1"
         /></a>
         <a
