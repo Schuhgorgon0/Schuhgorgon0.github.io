@@ -514,7 +514,7 @@
         <a
           href="https://www.instagram.com/schuhgorgon_programming?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
           ><img
-            src="https://scontent-fra3-2.cdninstagram.com/v/t51.2885-19/359760649_1466915353712435_1627279150775766693_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG-9-A6kgvww8WTgtWMdXYvm_XE0LVtcWur2TGoNyorSecszwUg5if3E3_GnizVyM1HdD169L43YAtRfPug3jYN&_nc_ohc=LwbPjNjpSWEQ7kNvwHeQY51&_nc_gid=kyraM_5AVMhEK9UMDhmXmw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5jjvWI_Yj152AxoBNPwkVT4kh7oAPOmLOzdbGGn0Udow&oe=6A177950&_nc_sid=8b3546"
+            src="https://github.com/Schuhgorgon0/Schuhgorgon0.github.io/blob/main/359760649_1466915353712435_1627279150775766693_n.jpg"
             alt="Bild 1"
         /></a>
         <a
